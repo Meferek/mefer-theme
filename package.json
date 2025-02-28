@@ -3,7 +3,7 @@
   "displayName": "meferek-theme",
   "description": "Brings my favourite colors to VS Code",
   "version": "0.0.1",
-  "publisher": "Meferek",
+  "publisher": "MeferekStudio",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.97.0"
