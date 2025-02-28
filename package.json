@@ -1,0 +1,23 @@
+{
+  "name": "mefer-theme",
+  "displayName": "mefer-theme",
+  "description": "Brings back my favourite theme",
+  "version": "0.0.1",
+  "publisher": "Meferek",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mefer Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mefer-color-theme.json"
+      }
+    ]
+  }
+}
