@@ -16,7 +16,7 @@
       {
         "label": "Mefer Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/mefer-color-theme.json"
+        "path": "./themes/meferek-color-theme.json"
       }
     ]
   },
