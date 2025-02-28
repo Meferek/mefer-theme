@@ -1,7 +1,7 @@
 {
-  "name": "mefer-theme",
-  "displayName": "mefer-theme",
-  "description": "Brings back my favourite theme",
+  "name": "meferek-theme",
+  "displayName": "meferek-theme",
+  "description": "Brings my favourite colors to VS Code",
   "version": "0.0.1",
   "publisher": "Meferek",
   "icon": "icon.png",
@@ -19,5 +19,9 @@
         "path": "./themes/mefer-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Meferek/meferek-theme"
   }
 }
